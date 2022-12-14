@@ -1,0 +1,143 @@
+[[Chipmunk]]
+arch = "aarch64"
+git-tree-sha1 = "b7c72ba9833fb2a5e4745ce1fd0df481132df1f8"
+os = "macos"
+
+    [[Chipmunk.download]]
+    sha256 = "c3c0a28858280c0fc69feac265965d6aa9557ca602ad09a6bd9c4a2f848d800d"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.aarch64-apple-darwin.tar.gz"
+[[Chipmunk]]
+arch = "aarch64"
+git-tree-sha1 = "8d5cfca2f686bb28caf30442394e17b1054815eb"
+libc = "glibc"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "69cbdaa632edc0aa5279debc14267f1eed886222a7f3dd909e2af2079121ab38"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.aarch64-linux-gnu.tar.gz"
+[[Chipmunk]]
+arch = "aarch64"
+git-tree-sha1 = "fb88a99ca48b01d73470a47b6323dac3a66cf797"
+libc = "musl"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "2652fed692089f2a73d01f1ba7c586db55f947eb268afe825b038d31e7cc7aea"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.aarch64-linux-musl.tar.gz"
+[[Chipmunk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b48b30a0ef236c528fadab8b6d7156a410c31b69"
+libc = "glibc"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "766b82ef609e664a0653a70a42ad5e045208b2d498058f8337866c133c0a3a4c"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.armv6l-linux-gnueabihf.tar.gz"
+[[Chipmunk]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c57d7606918f9bba045635abeac7446bface6761"
+libc = "musl"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "372fe8870ccbbce373dad64d15bde8e088ac569ff9f357eb7709328bdac1508a"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.armv6l-linux-musleabihf.tar.gz"
+[[Chipmunk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2d71a8e261bd31f08c43b89d93b7e3541aebaab8"
+libc = "glibc"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "f111d0f07eda4ab06e82090d2f5ffa2d72fb0f31a2174949c15c7ef900facc55"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.armv7l-linux-gnueabihf.tar.gz"
+[[Chipmunk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d7a49a66a0e882efa59c1df2c972a524008326c0"
+libc = "musl"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "78c3e327114fe86278a38d56bc6f9f8c166a29c3c5c91d9b1d23ea30629a352a"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.armv7l-linux-musleabihf.tar.gz"
+[[Chipmunk]]
+arch = "i686"
+git-tree-sha1 = "d1fb0db54b77ac09e6f66574e13f0746abb45d3c"
+libc = "glibc"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "40ba448116aa3d60246fab5d35a43f7126ac26bb8ce9b4fa4c8e590fc81dee76"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.i686-linux-gnu.tar.gz"
+[[Chipmunk]]
+arch = "i686"
+git-tree-sha1 = "cefd75fe651fe7e61b28ca0322f02f41b2f14f8a"
+libc = "musl"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "346532717d9ed1c27000317cd2a7089d670821f4e1be89084a932725f9556234"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.i686-linux-musl.tar.gz"
+[[Chipmunk]]
+arch = "i686"
+git-tree-sha1 = "b3f0a26230cc12606613f609d6d05329b32eafb5"
+os = "windows"
+
+    [[Chipmunk.download]]
+    sha256 = "b9f74a763ec43c944f6bbf1d48118cb3a1f40a2074726e0ec323ff60df383ea1"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.i686-w64-mingw32.tar.gz"
+[[Chipmunk]]
+arch = "powerpc64le"
+git-tree-sha1 = "3cc53c85e1f3d1c3e00bcc469343e7d4f865e945"
+libc = "glibc"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "419e4d17ebeb4cb8b94add71f5d9a62e59e73552f2a576b3bb56cce2ecaf0c51"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.powerpc64le-linux-gnu.tar.gz"
+[[Chipmunk]]
+arch = "x86_64"
+git-tree-sha1 = "fa65c12228e50f1df5032234fa245eadb8fe273a"
+os = "macos"
+
+    [[Chipmunk.download]]
+    sha256 = "1c9db641041c7a736b1157c2172c7e3893229b54c7e189115ef2b408a553ffbe"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.x86_64-apple-darwin.tar.gz"
+[[Chipmunk]]
+arch = "x86_64"
+git-tree-sha1 = "c356c4c11ed58acfb59a0088b21513582bbe782e"
+libc = "glibc"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "5005847d93915f2d4f09488d6cdfda4216d918144674634753231a05e9356bf5"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.x86_64-linux-gnu.tar.gz"
+[[Chipmunk]]
+arch = "x86_64"
+git-tree-sha1 = "9140bd12de0a9fd69584595c5ccc98a5474bb74d"
+libc = "musl"
+os = "linux"
+
+    [[Chipmunk.download]]
+    sha256 = "7bd8366d9481114d7a7af261c06aaccd69aa20c7b52bbb6af5fd18d35416014a"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.x86_64-linux-musl.tar.gz"
+[[Chipmunk]]
+arch = "x86_64"
+git-tree-sha1 = "438ecab0dc5286ead70ce1d81257c980f0ad8e23"
+os = "freebsd"
+
+    [[Chipmunk.download]]
+    sha256 = "a56d11d20c21fb80dad660e317ebb9bd57c82cf53fabdb5fda685f2d8cde02eb"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.x86_64-unknown-freebsd.tar.gz"
+[[Chipmunk]]
+arch = "x86_64"
+git-tree-sha1 = "9daf08e42b0f14a6fa80184c6d832e22e58b3923"
+os = "windows"
+
+    [[Chipmunk.download]]
+    sha256 = "60a9905ca0aed6e6af37bc20c124e67902d8d1434d817eaeeabae01c66f00b37"
+    url = "https://github.com/JuliaBinaryWrappers/Chipmunk_jll.jl/releases/download/Chipmunk-v7.0.3+0/Chipmunk.v7.0.3.x86_64-w64-mingw32.tar.gz"
